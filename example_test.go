@@ -7,7 +7,7 @@ import (
 
 	"github.com/google/shlex"
 
-	"al.essio.dev/pkg/shellescape"
+	"github.com/go-stdx/shellescape"
 )
 
 func ExampleQuote() {

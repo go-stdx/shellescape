@@ -50,7 +50,7 @@ import (
         "fmt"
         "os"
 
-        "al.essio.dev/pkg/shellescape"
+        "github.com/go-stdx/shellescape"
 )
 
 func main() {

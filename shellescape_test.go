@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"testing"
 
-	"al.essio.dev/pkg/shellescape"
+	"github.com/go-stdx/shellescape"
 )
 
 func assertEqual(t *testing.T, s, expected string) {

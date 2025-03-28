@@ -6,7 +6,7 @@ POSIX shells.
 The original Python package which this work was inspired by can be found
 at https://pypi.python.org/pypi/shellescape.
 */
-package shellescape // "import al.essio.dev/pkg/shellescape"
+package shellescape // "import github.com/go-stdx/shellescape"
 
 /*
 The functionality provided by shellescape.Quote could be helpful
